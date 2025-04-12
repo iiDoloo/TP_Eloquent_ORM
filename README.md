@@ -26,8 +26,8 @@
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/your-laravel-project.git
-cd your-laravel-project
+git clone https://github.com/iiDoloo/TP_Eloquent_ORM
+cd TP_Eloquent_ORM
 ```
 
 2. **install and run:**
